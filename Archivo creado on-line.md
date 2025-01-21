@@ -8,3 +8,6 @@
 
 # He podido comprobar que desde el HOST puedo modificar la extensión y para que se guarde el archivo modificado en Visual Studio Code es necesraio
 # dar a guardar porque si se sale sin dar a guardar, no pregunta ni guarda los cambios.
+
+# O sí los guarda, efectivamente no guarda los cambios si no se le da a guardar, porque aunque VISUAL Studio Code, al volver a abrir el archivo mantiene
+# los cambios que se han hecho aunque no se guardase, al subir el archivo al ON-LINE estos cambios no estaban reflejados.
