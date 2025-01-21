@@ -14,4 +14,11 @@ Esto es un repositorio para la asignatura IAW
 # Efectivamente se ha subido correctamente. Para subir las versiones al Git on-line lo hago a traves del Software instalado en mi HOST
 # es decir, desde GitHub, haciendo primero COMMIT para especificar y describir los cambios realizados, y después hago un PUSH para subirlo
 
+# Cuando hago cambios on-line para guardarlos sale directamente la opción de hacer un COMMIT / PUSH, por lo que no hace falta hacerlo otra vez.
+# Pero para que los cambios se reflejen en mi HOST sí necesito hacer un PUSH desde el softeare GitHub. Esto se hace en la opción que pone Fech Origin,
+# con esto se buscan los cambios y estos salen reflejados, pero hasta que no hacemos click en PULL, la actualización no se hace efectiva.
+
+# Ahora de nuevo, después de modificar este archivo en mi HOST voy a hacer un COMMIT / PUSH para que se reflejen los cambios en on-line.
+
+
 
