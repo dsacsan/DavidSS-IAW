@@ -20,5 +20,9 @@ Esto es un repositorio para la asignatura IAW
 
 # Ahora de nuevo, después de modificar este archivo en mi HOST voy a hacer un COMMIT / PUSH para que se reflejen los cambios en on-line.
 
+# Y efectivamente cuando hago el COMMIT / PUSH desde el GitHub en mi HOST, este ya lo sube al on-line sin necesidad de que haga nada en on-line.
+# es decir, cuando en el on-line hago click sobre el archivo o voy a mi repositorio, este ya sale reflejado con los cambios. Ahora estoy en on-line y voy a crear
+# otro archivo para ver si se refleja en mi HOST. Esto aún no lo había hecho así, porque este archivo fue creado en mi HOST con un copia y pega. Primero tendeé que hacer un COMMIT / PUSH para salir de esta modificación de texto y luego probar a crear el archivo.
+
 
 
