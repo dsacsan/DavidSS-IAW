@@ -1,2 +1,5 @@
 # He creado este archivo on-line dando en al + que hay en la opción de la izquierda del menú al lado de MAIN. Le he puesto el nombre de ARCHVIVO CREADO ON-LINE
 # no le he puesto ninguna extensión, veremos qué sale. Ahora toca hacer sobre este mismo archivo recién creado el commit  push
+
+# después de haber hecho en mi GitHub un Fetch Origin y posteriormente un PULL, el archivo se me ha descargado. Como era de esperar se ha descargado sin
+# extensión, por lo que voy a subirlo de nuevo para intentar crearle la extensión ".md" de manera on-line, porque desde el HOST es mucho más fácil.
