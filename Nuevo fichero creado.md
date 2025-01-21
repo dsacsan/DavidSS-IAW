@@ -10,3 +10,8 @@ Esto es un repositorio para la asignatura IAW
 
 # Puedo confirmar que se ha descargado con la actualización y por lo tanto ha funcionado. Voy a volver a modificar este en mi HOST
 # para practicar la subida el on-line
+
+# Efectivamente se ha subido correctamente. Para subir las versiones al Git on-line lo hago a traves del Software instalado en mi HOST
+# es decir, desde GitHub, haciendo primero COMMIT para especificar y describir los cambios realizados, y después hago un PUSH para subirlo
+
+
