@@ -5,3 +5,6 @@
 # extensión, por lo que voy a subirlo de nuevo para intentar crearle la extensión ".md" de manera on-line, porque desde el HOST es mucho más fácil.
 
 # No soy capaz de modificar la extensión desde el on-line, así que lo voy a hacer desde el HOST y después volveré a crear otro archivo on-line pero con extensión.
+
+# He podido comprobar que desde el HOST puedo modificar la extensión y para que se guarde el archivo modificado en Visual Studio Code es necesraio
+# dar a guardar porque si se sale sin dar a guardar, no pregunta ni guarda los cambios.
